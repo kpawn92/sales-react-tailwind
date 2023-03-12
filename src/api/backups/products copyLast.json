@@ -1,0 +1,435 @@
+[
+	{
+		"id": 980249,
+		"category": "bebidas",
+		"name": "Big C",
+		"nameProduct": "Jugo de fresa y banana",
+		"description": "Jugo fresa y banana con 50% de pulpa. 1 L.",
+		"price": "3.50",
+		"url": "./assets/bebidas/BigCfresa.png"
+	},
+	{
+		"id": 943201,
+		"category": "bebidas",
+		"name": "Big C",
+		"nameProduct": "Jugo de pera",
+		"description": "Jugo de pera con 50% de pulpa. 1 L",
+		"price": "3.50",
+		"url": "./assets/bebidas/BigcPera.png"
+	},
+	{
+		"id": 10639,
+		"category": "bebidas",
+		"name": "Cofrutos",
+		"nameProduct": "Jugo de manzana",
+		"description": "Jugo de manzana a partir de concentrado.1 L",
+		"price": "3.50",
+		"url": "./assets/bebidas/Cofrutosmz.png"
+	},
+	{
+		"id": 656032,
+		"category": "bebidas",
+		"name": "Cofrutos",
+		"nameProduct": "Jugo de melocoton",
+		"description": "Jugo de melocotón con 50% de puré de melocotón. 1L",
+		"price": "3.50",
+		"url": "./assets/bebidas/Cofrutosmeloc1L.png"
+	},
+	{
+		"id": 282378,
+		"category": "bebidas",
+		"name": "Gourmet",
+		"nameProduct": "Jugo de melocoton",
+		"description": "Jugo de melocotón con 50% de puré de melocotón 1L",
+		"price": "3.50",
+		"url": "./assets/bebidas/Brickmelo.png"
+	},
+	{
+		"id": 57874,
+		"category": "bebidas",
+		"name": "Gourmet",
+		"nameProduct": "Jugo de naranja",
+		"description": "Nectar de naranja light 1 L",
+		"price": "3.50",
+		"url": "./assets/bebidas/Bricknaranja.png"
+	},
+	{
+		"id": 643528,
+		"category": "bebidas",
+		"name": "Cofrutos",
+		"nameProduct": "Jugo de manzana",
+		"description": "Jugo de manzana a partir de concentrado 50%. 200 ml",
+		"price": "1.00",
+		"url": "./assets/bebidas/Cofrutosmz200.png"
+	},
+	{
+		"id": 962122,
+		"category": "bebidas",
+		"name": "Cofrutos",
+		"nameProduct": "Jugo de melocoton",
+		"description": "Jugo de melocotón con 50% de puré de melocotón.200 ml ",
+		"price": "1.00",
+		"url": "./assets/bebidas/Cofrutosmeloc200.png"
+	},
+	{
+		"id": 77408,
+		"category": "bebidas",
+		"name": "Wesergold",
+		"nameProduct": "Jugo de naranja",
+		"description": "Nectar de naranja 200 ml",
+		"price": "0.90",
+		"url": "./assets/bebidas/Wesergoldnar200.png"
+	},
+	{
+		"id": 784808,
+		"category": "bebidas",
+		"name": "Big",
+		"nameProduct": "Refresco gaseado cola",
+		"description": "Refresco gaseado Sabor cola 400 ml",
+		"price": "1.00",
+		"url": "./assets/bebidas/Bigcola.png"
+	},
+	{
+		"id": 968514,
+		"category": "bebidas",
+		"name": "Big",
+		"nameProduct": "Refresco gaseado naranja",
+		"description": "Refresco gaseado Sabor naranja 400 ml",
+		"price": "1.00",
+		"url": "./assets/bebidas/Bignaranja.png"
+	},
+	{
+		"id": 618087,
+		"category": "bebidas",
+		"name": "Big",
+		"nameProduct": "Refresco gaseado manzana",
+		"description": "Refresco gaseado Sabor manzana 400 ml",
+		"price": "1.00",
+		"url": "./assets/bebidas/Bigmanzana.png"
+	},
+	{
+		"id": 111311,
+		"category": "bebidas",
+		"name": "Brizo",
+		"nameProduct": "Refresco gaseado cola",
+		"description": "Refresco gaseado Sabor cola lata 355 ml",
+		"price": "1.10",
+		"url": "./assets/bebidas/Brizocola.png"
+	},
+	{
+		"id": 648968,
+		"category": "bebidas",
+		"name": "Ciego montero",
+		"nameProduct": "Refresco gaseado naranja",
+		"description": "Refresco gaseado Sabor naranja lata 355 ml",
+		"price": "1.10",
+		"url": "./assets/bebidas/Ciegonaranja.png"
+	},
+	{
+		"id": 270629,
+		"category": "bebidas",
+		"name": "Ciego montero",
+		"nameProduct": "Agua mineral 5L",
+		"description": "Agua mineral 5 litros ",
+		"price": "3.00",
+		"url": "./assets/bebidas/Agua5L.png"
+	},
+	{
+		"id": 976111,
+		"category": "bebidas",
+		"name": "Tigon",
+		"nameProduct": "Bebida energizante",
+		"description": "Bebida energizante lata 200 ml\nContiene taurina y cafeína.",
+		"price": "1.25",
+		"url": "./assets/bebidas/Tigon.png"
+	},
+	{
+		"id": 516426,
+		"category": "aceo",
+		"name": "Natural",
+		"nameProduct": "Jabón de baño",
+		"description": "Jabón Natural con crema hidratante y aceite de moringa 100 g",
+		"price": "0.90",
+		"url": "./assets/aceo/Jabonnat100.png"
+	},
+	{
+		"id": 324275,
+		"category": "aceo",
+		"name": "Dalan",
+		"nameProduct": "Jabón de baño",
+		"description": "Jabón con aceite de oliva 70 gramos ",
+		"price": "0.70",
+		"url": "./assets/aceo/Jabonoliva.png"
+	},
+	{
+		"id": 212244,
+		"category": "aceo",
+		"name": "Natural crema",
+		"nameProduct": "Crema Argán",
+		"description": "Emulsión en crema de tipo aceite en agua. De ligera textura y fácil absorción. La crema con Aceite de Argán hidrata, nutre y suaviza. Potente antiedad y regenerador. Produce efecto de relajación en las quemaduras superficiales de la piel ",
+		"price": "2.65",
+		"url": "./assets/aceo/Cremaargan.png"
+	},
+	{
+		"id": 331445,
+		"category": "aceo",
+		"name": "Natural Ylang ylang",
+		"nameProduct": "Crema ylang2x",
+		"description": "Emulsión en crema de tipo aceite en agua. El ylang ylang es comúnmente utilizado para equilibrar la piel grasa y tratar el acné y manchas. El aceite de algodón tiene propiedades emolientes, hidratantes y regeneradores.",
+		"price": "2.65",
+		"url": "./assets/aceo/Cremaylang.png"
+	},
+	{
+		"id": 374996,
+		"category": "aceo",
+		"name": "Natural karite",
+		"nameProduct": "Crema karite",
+		"description": "Emulsión en crema de tipo aceite en agua. La manteca de karité posee grandes propiedades suavizantes y reestructurantes en arrugas y estrías. Su uso ofrece a nuestra piel un aspecto satinado, terso, hidratado y suave.",
+		"price": "2.65",
+		"url": "./assets/aceo/Cremakarite.png"
+	},
+	{
+		"id": 874029,
+		"category": "alimentos",
+		"name": "Dega",
+		"nameProduct": "Puré",
+		"description": "Puré de tomate italiano lata 2550 g.",
+		"price": "10.00",
+		"url": "./assets/alimentos/Puregrande.png"
+	},
+	{
+		"id": 107953,
+		"category": "alimentos",
+		"name": "La Costeña",
+		"nameProduct": "Vinagre de manzana",
+		"description": "Vinagre de manzana 535 ml Uso culinario, cosmético, limpieza del hogar etc...",
+		"price": "2.20",
+		"url": "./assets/alimentos/Vinman.png"
+	},
+	{
+		"id": 975247,
+		"category": "alimentos",
+		"name": "Beo hive",
+		"nameProduct": "Café",
+		"description": "Café molido tueste natural sellado 500g Italian Cofee Style",
+		"price": "4.00",
+		"url": "./assets/alimentos/Cafe.png"
+	},
+	{
+		"id": 17069,
+		"category": "alimentos",
+		"name": "Coosur",
+		"nameProduct": "Pasta de bocadito",
+		"description": "Pasta para bocaditos 450 g",
+		"price": "5.00",
+		"url": "./assets/alimentos/Pastabocaditos.png"
+	},
+	{
+		"id": 989839,
+		"category": "alimentos",
+		"name": "Krit",
+		"nameProduct": "Galleta salada",
+		"description": "Galletas saladas 100 g",
+		"price": "2.00",
+		"url": "./assets/alimentos/Krit.png"
+	},
+	{
+		"id": 317417,
+		"category": "alimentos",
+		"name": "Tostacream",
+		"nameProduct": "Galleta semisalada",
+		"description": "Galletas semisaladas 100 g",
+		"price": "2.00",
+		"url": "./assets/alimentos/Tostacream.png"
+	},
+	{
+		"id": 461361,
+		"category": "alimentos",
+		"name": "Wafer",
+		"nameProduct": "Sorbetos",
+		"description": "Paquete de sorbetos de chocolate 240g",
+		"price": "3.00",
+		"url": "./assets/alimentos/Wafer.png"
+	},
+	{
+		"id": 359366,
+		"category": "alimentos",
+		"name": "Saltitacos",
+		"nameProduct": "Galleta salada",
+		"description": "Galletas saladas 100 g",
+		"price": "2.50",
+		"url": "./assets/alimentos/Saltitacos.png"
+	},
+	{
+		"id": 607964,
+		"category": "alimentos",
+		"name": "Dondé",
+		"nameProduct": "Galleta de soda",
+		"description": "Galletas de soda 160 g",
+		"price": "3.00",
+		"url": "./assets/alimentos/Sodagrande.png"
+	},
+	{
+		"id": 500934,
+		"category": "alimentos",
+		"name": "Dondé soda especial",
+		"nameProduct": "Galleta de soda",
+		"description": "Galletas de soda 151 g",
+		"price": "3.00",
+		"url": "./assets/alimentos/Sodaespecial.png"
+	},
+	{
+		"id": 568452,
+		"category": "bebidas",
+		"name": "Cristal",
+		"nameProduct": "Cerveza cristal",
+		"description": "Bebida enlatada 355ml, 4.5% alcohol caja x 24U",
+		"price": "35.00",
+		"url": "./assets/bebidas/cervezaCristal.png"
+	},
+	{
+		"id": 484563,
+		"category": "bebidas",
+		"name": "Dankel",
+		"nameProduct": "Cerveza clara",
+		"description": "Bebida enlatada 355ml, 4.5% alcohol caja x 24U",
+		"price": "24.00",
+		"url": "./assets/bebidas/cervezaDankel.png"
+	},
+	{
+		"id": 698354,
+		"category": "bebidas",
+		"name": "Morena",
+		"nameProduct": "Malta",
+		"description": "Bebida enlatada 250ml, caja x 24U",
+		"price": "24.00",
+		"url": "./assets/bebidas/maltaMorena.png"
+	},
+	{
+		"id": 374934,
+		"category": "bebidas",
+		"name": "Ciego Montero",
+		"nameProduct": "Refresco gaseado cola",
+		"description": "Pomo de 1500ml",
+		"price": "2.50",
+		"url": "./assets/bebidas/cola1500.png"
+	},
+	{
+		"id": 284315,
+		"category": "bebidas",
+		"name": "Ciego Montero",
+		"nameProduct": "Refresco gaseado naranja",
+		"description": "Pomo de 1500ml",
+		"price": "2.50",
+		"url": "./assets/bebidas/naranja1500.png"
+	},
+	{
+		"id": 458729,
+		"category": "bebidas",
+		"name": "Ciego Montero",
+		"nameProduct": "Refresco gaseado mate",
+		"description": "Pomo de 1500ml",
+		"price": "2.50",
+		"url": "./assets/bebidas/mate1500.png"
+	},
+	{
+		"id": 645354,
+		"category": "alimentos",
+		"name": "Yeya",
+		"nameProduct": "Aceite",
+		"description": "Sellado 1L Omega 3 y Vitamina D",
+		"price": "6.50",
+		"url": "./assets/alimentos/aceiteYeya1L.png"
+	},
+	{
+		"id": 456806,
+		"category": "alimentos",
+		"name": "2000",
+		"nameProduct": "Galleta dulces rellenas",
+		"description": "Con crema de cacao 240g (15 parejas) x U",
+		"price": "3.00",
+		"url": "./assets/alimentos/bifa2000.png"
+	},
+	{
+		"id": 693254,
+		"category": "alimentos",
+		"name": "Pilgrim",
+		"nameProduct": "Muslos de pollo",
+		"description": "Paquete sellado de muslos 2.5kg(5.5lb)",
+		"price": "11.00",
+		"url": "./assets/alimentos/polloSellado.png"
+	},
+	{
+		"id": 469246,
+		"category": "alimentos",
+		"name": "Efsane",
+		"nameProduct": "Bizcocho de chocolate",
+		"description": "20g",
+		"price": "0.35",
+		"url": "./assets/alimentos/biscochoEfsane.png"
+	},
+	{
+		"id": 361498,
+		"category": "alimentos",
+		"name": "Azucar",
+		"nameProduct": "Azucar blanca",
+		"description": "Granel x 1lb",
+		"price": "1.20",
+		"url": "./assets/alimentos/azucarBlanca.png"
+	},
+	{
+		"id": 932716,
+		"category": "aceo",
+		"name": "Totalcare",
+		"nameProduct": "Detergente",
+		"description": "U x 5kg con aroma Limon, Lavanda o Rosa",
+		"price": "28.00",
+		"url": "./assets/aceo/detergenteTotalcare.png"
+	},
+	{
+		"id": 932716,
+		"category": "alimentos",
+		"name": "Maizena",
+		"nameProduct": "Natilla",
+		"description": "Sobres 47g rinden 5tazas sabores: vainilla, fresa y chocolate",
+		"price": "2.00",
+		"url": "./assets/alimentos/maizena.png"
+	},
+	{
+		"id": 125693,
+		"category": "alimentos",
+		"name": "Qualimax",
+		"nameProduct": "Gelatina",
+		"description": "Sobres 20g rinden 4porciones sabores: cereza, uva y limon",
+		"price": "1.50",
+		"url": "./assets/alimentos/qualiGelatina.png"
+	},
+	{
+		"id": 652849,
+		"category": "alimentos",
+		"name": "Ajo",
+		"nameProduct": "Ajo",
+		"description": "Pata de ajo x 50U",
+		"price": "9.00",
+		"url": "./assets/alimentos/ajo.png"
+	},
+	{
+		"id": 569134,
+		"category": "alimentos",
+		"name": "Saladas",
+		"nameProduct": "Galleta saladas",
+		"description": "U x 180g",
+		"price": "3.50",
+		"url": "./assets/alimentos/salMar.png"
+	},
+	{
+		"id": 469128,
+		"category": "alimentos",
+		"name": "Arroz",
+		"nameProduct": "Arroz granel",
+		"description": "U x 1lb",
+		"price": "1.10",
+		"url": "./assets/alimentos/arrozGranel.jpg"
+	}
+
+]

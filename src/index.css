@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.calidad {
+    display: block;
+    font-family: monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 9ch;
+
+    animation: typing 2s steps(9), blink .5s infinite step-end alternate ;
+    overflow: hidden;
+}
+.rapidez {
+    display: block;
+    font-family: monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 10ch;
+
+    animation: typing 2s steps(10), blink .5s infinite step-end alternate ;
+    overflow: hidden;
+}
+.text {
+    display: block;
+    font-family: monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 28ch;
+
+    animation: typing 4s steps(28), blink .5s infinite step-end alternate ;
+    overflow: hidden;
+}
+
+@keyframes typing {
+    from {width: 0;}
+}
+
+@keyframes typing {
+    50% {border-color: transparent;}
+}
