@@ -1,10 +1,10 @@
-import { useContext, useState } from 'react';
+import { useContext /* useState */ } from 'react';
 import { NavLink } from 'react-router-dom';
 import { FaOpencart } from 'react-icons/fa';
 import { CartContex } from '../../context/ShoppingCartContext';
 
 const Navbar = () => {
-	const { cart } = useContext(CartContex);
+	const { cart, open, setOpen } = useContext(CartContex);
 
 	const quantity = cart.reduce((acc, curr) => {
 		return acc + curr.quantity;
@@ -18,7 +18,7 @@ const Navbar = () => {
 	const styleOpen = { top: '5rem', opacity: '1' };
 	const styleClose = { top: '-490px' };
 
-	const [open, setOpen] = useState(false);
+	// const [open, setOpen] = useState(false);
 	return (
 		<div className='shadow-md w-full fixed top-0 left-0'>
 			<div className='md:flex items-center justify-between bg-black py-4 md:px-10 px-7'>

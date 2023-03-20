@@ -68,7 +68,7 @@ const CartPage = () => {
 						))}
 					</div>
 					<button
-						className='border px-4 py-3 rounded-lg w-full flex justify-center items-center bg-black'
+						className='border px-4 py-3 rounded-lg w-full flex justify-center items-center bg-gray-900'
 						onClick={handleCheck}
 					>
 						<p className='mr-1 text-gray-50 font-bold'>Enviar pedido</p>

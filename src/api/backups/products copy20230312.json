@@ -63,13 +63,22 @@
 		"url": "./assets/bebidas/Cofrutosmz200.png"
 	},
 	{
+		"id": 962122,
+		"category": "bebidas",
+		"name": "Cofrutos",
+		"nameProduct": "Jugo de melocoton",
+		"description": "Jugo de melocotón con 50% de puré de melocotón.200 ml ",
+		"price": "1.00",
+		"url": "./assets/bebidas/Cofrutosmeloc200.png"
+	},
+	{
 		"id": 77408,
 		"category": "bebidas",
-		"name": "Dimes",
+		"name": "Wesergold",
 		"nameProduct": "Jugo de naranja",
 		"description": "Nectar de naranja 200 ml",
 		"price": "0.90",
-		"url": "./assets/bebidas/Dimes200.png"
+		"url": "./assets/bebidas/Wesergoldnar200.png"
 	},
 	{
 		"id": 784808,
@@ -135,6 +144,15 @@
 		"url": "./assets/bebidas/Tigon.png"
 	},
 	{
+		"id": 516426,
+		"category": "aceo",
+		"name": "Natural",
+		"nameProduct": "Jabón de baño",
+		"description": "Jabón Natural con crema hidratante y aceite de moringa 100 g",
+		"price": "0.90",
+		"url": "./assets/aceo/Jabonnat100.png"
+	},
+	{
 		"id": 324275,
 		"category": "aceo",
 		"name": "Dalan",
@@ -142,6 +160,33 @@
 		"description": "Jabón con aceite de oliva 70 gramos ",
 		"price": "0.70",
 		"url": "./assets/aceo/Jabonoliva.png"
+	},
+	{
+		"id": 212244,
+		"category": "aceo",
+		"name": "Natural crema",
+		"nameProduct": "Crema Argán",
+		"description": "Emulsión en crema de tipo aceite en agua. De ligera textura y fácil absorción. La crema con Aceite de Argán hidrata, nutre y suaviza. Potente antiedad y regenerador. Produce efecto de relajación en las quemaduras superficiales de la piel ",
+		"price": "2.65",
+		"url": "./assets/aceo/Cremaargan.png"
+	},
+	{
+		"id": 331445,
+		"category": "aceo",
+		"name": "Natural Ylang ylang",
+		"nameProduct": "Crema ylang2x",
+		"description": "Emulsión en crema de tipo aceite en agua. El ylang ylang es comúnmente utilizado para equilibrar la piel grasa y tratar el acné y manchas. El aceite de algodón tiene propiedades emolientes, hidratantes y regeneradores.",
+		"price": "2.65",
+		"url": "./assets/aceo/Cremaylang.png"
+	},
+	{
+		"id": 374996,
+		"category": "aceo",
+		"name": "Natural karite",
+		"nameProduct": "Crema karite",
+		"description": "Emulsión en crema de tipo aceite en agua. La manteca de karité posee grandes propiedades suavizantes y reestructurantes en arrugas y estrías. Su uso ofrece a nuestra piel un aspecto satinado, terso, hidratado y suave.",
+		"price": "2.65",
+		"url": "./assets/aceo/Cremakarite.png"
 	},
 	{
 		"id": 874029,
@@ -180,6 +225,15 @@
 		"url": "./assets/alimentos/Krit.png"
 	},
 	{
+		"id": 317417,
+		"category": "alimentos",
+		"name": "Tostacream",
+		"nameProduct": "Galleta semisalada",
+		"description": "Galletas semisaladas 100 g",
+		"price": "2.00",
+		"url": "./assets/alimentos/Tostacream.png"
+	},
+	{
 		"id": 461361,
 		"category": "alimentos",
 		"name": "Wafer",
@@ -214,6 +268,15 @@
 		"description": "Bebida enlatada 355ml, 4.5% alcohol caja x 24U",
 		"price": "35.00",
 		"url": "./assets/bebidas/cervezaCristal.png"
+	},
+	{
+		"id": 484563,
+		"category": "bebidas",
+		"name": "Dankel",
+		"nameProduct": "Cerveza clara",
+		"description": "Bebida enlatada 355ml, 4.5% alcohol caja x 24U",
+		"price": "24.00",
+		"url": "./assets/bebidas/cervezaDankel.png"
 	},
 	{
 		"id": 698354,
@@ -373,62 +436,8 @@
 		"category": "alimentos",
 		"name": "Sierra",
 		"nameProduct": "Sierra",
-		"description": "U x lb",
+		"description": "U x cantidad de lb",
 		"price": "2.00",
 		"url": "./assets/alimentos/sierra.png"
-	},
-	{
-		"id": 639854,
-		"category": "alimentos",
-		"name": "Tomcoex",
-		"nameProduct": "Pure de tomate",
-		"description": "Lata sellada 400g fabricado en España",
-		"price": "2.50",
-		"url": "./assets/alimentos/pureTomcoex.png"
-	},
-	{
-		"id": 528741,
-		"category": "bebidas",
-		"name": "Juver",
-		"nameProduct": "Jugo de melocoton",
-		"description": "Nectar con 50% de pure de melocoton 330ml",
-		"price": "1.50",
-		"url": "./assets/bebidas/juver330ml.png"
-	},
-	{
-		"id": 693457,
-		"category": "bebidas",
-		"name": "Molinera",
-		"nameProduct": "Jugo de piña y manzana",
-		"description": "200ml",
-		"price": "0.90",
-		"url": "./assets/bebidas/zumoMolinera200ml.png"
-	},
-	{
-		"id": 347851,
-		"category": "bebidas",
-		"name": "Juver",
-		"nameProduct": "Jugo multifrutas",
-		"description": "Bebida refrescante de zumo de 10 frutas y 10 vitaminas, parcialmente a partir de concentrado con edulcorantes. Sin azucares añadidos",
-		"price": "1.00",
-		"url": "./assets/bebidas/juverMultifrutas.png"
-	},
-	{
-		"id": 287594,
-		"category": "aceo",
-		"name": "Natural",
-		"nameProduct": "Jabón de baño",
-		"description": "Contiene crema hidratante 125g",
-		"price": "1.10",
-		"url": "./assets/aceo/NarutalGrande.png"
-	},
-	{
-		"id": 468573,
-		"category": "aceo",
-		"name": "Brisa",
-		"nameProduct": "Detergente",
-		"description": "5kg aroma a limon o lavanda",
-		"price": "28.00",
-		"url": "./assets/aceo/DetergenteBrisas.png"
 	}
 ]
